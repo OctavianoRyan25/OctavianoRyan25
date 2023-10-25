@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @OctavianoRyan25
-[![An image of @octavianoryan25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/octavianoryan25)](https://holopin.io/@octavianoryan25)
+👋 Hi, I’m Octaviano Ryan
+- Junior back end developer
+
 [![](https://visitcount.itsvg.in/api?id=octaviano25&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://giphy.com/gifs/leagueoflegends-dancing-dancin-choncc-KbkkuKFE3oaz4832dZ)
+
 
 
 <!---
