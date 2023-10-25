@@ -1,9 +1,13 @@
-👋 Hi, I’m Octaviano Ryan
+## ABOUT ME
+
+👋 Hiii, I’m Octaviano Ryan
 - Junior back end developer
+- I'd like play competitive game
 
-[![](https://visitcount.itsvg.in/api?id=octaviano25&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-![](https://giphy.com/gifs/leagueoflegends-dancing-dancin-choncc-KbkkuKFE3oaz4832dZ)
-
+##
+<p align="center">
+  <img width="300" height="200" src="https://github.com/OctavianoRyan25/OctavianoRyan25/assets/127408715/47d422da-ada3-4f47-8625-4a0ddb2d4e5f">
+</p>
 
 
 <!---
