@@ -1,8 +1,6 @@
 ## ABOUT ME
 
 👋 Hiii, I’m Octaviano Ryan
-- Junior back end developer
-- I'd like play competitive game
 
 ##
 <p align="center">
