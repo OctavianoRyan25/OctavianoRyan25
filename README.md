@@ -18,7 +18,8 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Web Development especially backend development<br>- 🖱️ WPGG</p>
+- 🌱 I’m currently learning Web Development especially backend development
+- 🖱️ WPGG</p>
 
 ###
 
