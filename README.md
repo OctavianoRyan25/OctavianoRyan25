@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/c3a2b42529fa30045419cc4f23b6f0f7055ef6d4421eb68390436b197ccfcdb2/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61332f62302f32622f61336230326238316464663837396630616337316366316638346463633630312e676966"  />
+<img align="right" height="200" src="https://media.tenor.com/fhhZcJ4op_4AAAAi/lol-wild-rift.gif"  />
 
 ###
 
@@ -36,6 +36,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OctavianoRyan25&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavianoRyan25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
