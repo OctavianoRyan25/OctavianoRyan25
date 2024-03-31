@@ -14,17 +14,17 @@
 
 ###
 
-<p align="left">About Me<br><br>- 🌱 I’m currently learning Web Development especially backend development<br>- 🖱️ WPGG</p>
+<h4 align="left">About Me</h4>
 
 ###
 
-<br clear="both">
-
-<h5 align="left">Languages</h5>
+<p align="left">- 🌱 I’m currently learning Web Development especially backend development<br>- 🖱️ WPGG</p>
 
 ###
 
-<br clear="both">
+<h4 align="left">Languages & Frameworks</h4>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -42,13 +42,7 @@
 
 <br clear="both">
 
-<h4 align="left">🤝🏻 Let's connect</h4>
-
-###
-
-<br clear="both">
-
-<h2 align="left"></h2>
+<h2 align="left">🤝🏻 Let's connect</h2>
 
 ###
 
