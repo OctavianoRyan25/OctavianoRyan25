@@ -10,11 +10,11 @@
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/fhhZcJ4op_4AAAAi/lol-wild-rift.gif"  />
+<h4 align="left">About Me</h4>
 
 ###
 
-<h4 align="left">About Me</h4>
+<img align="right" height="180" src="https://media.tenor.com/fhhZcJ4op_4AAAAi/lol-wild-rift.gif"  />
 
 ###
 
@@ -76,6 +76,20 @@
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+</div>
+
+###
+
+<h4 align="left">Databases</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
 ###
