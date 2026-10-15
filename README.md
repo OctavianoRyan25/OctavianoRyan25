@@ -97,10 +97,10 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctavianoRyan25/OctavianoRyan25/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OctavianoRyan25/OctavianoRyan25/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OctavianoRyan25/OctavianoRyan25/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctavianoRyan25/OctavianoRyan25/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OctavianoRyan25/OctavianoRyan25/output/breakout-contribution-graph.svg">
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/OctavianoRyan25/OctavianoRyan25/output/breakout-contribution-graph.svg">
 </picture>
 
 ###
