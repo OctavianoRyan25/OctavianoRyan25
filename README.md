@@ -103,8 +103,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OctavianoRyan25/OctavianoRyan25/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/OctavianoRyan25/OctavianoRyan25/snake-output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
